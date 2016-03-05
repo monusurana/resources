@@ -1,1 +1,1 @@
-# Useful Resources & Links for Anddroid and Web Development 
+# Useful Resources & Links for Android and Web Development 
